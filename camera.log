@@ -1,0 +1,79 @@
+nohup: ignoring input
+ * Serving Flask app 'car_detector_server'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.46:5000
+[33mPress CTRL+C to quit[0m
+192.168.1.240 - - [13/Jun/2025 21:30:17] "GET / HTTP/1.1" 200 -
+192.168.1.240 - - [13/Jun/2025 21:30:18] "GET /video HTTP/1.1" 200 -
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+Ultralytics 8.3.154 🚀 Python-3.12.3 torch-2.7.1+cu126 CPU (Intel Core(TM) i3-7130U 2.70GHz)
+192.168.1.240 - - [13/Jun/2025 21:30:20] "GET / HTTP/1.1" 200 -
+192.168.1.240 - - [13/Jun/2025 21:30:20] "GET /video HTTP/1.1" 200 -
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+192.168.1.240 - - [13/Jun/2025 21:38:02] "GET / HTTP/1.1" 200 -
+192.168.1.240 - - [13/Jun/2025 21:38:02] "GET /video HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:41:57] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:00] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:03] "GET /video HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:05] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:05] "GET /video HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:14] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:42:15] "GET /video HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:43:47] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:43:47] "GET /video HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:45:43] "GET / HTTP/1.1" 200 -
+192.168.1.4 - - [13/Jun/2025 21:45:43] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:46:18] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:46:19] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:46:19] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:46:19] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:51:48] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:51:48] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:53:41] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:53:41] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:55:09] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:55:09] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:55:40] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 21:55:41] "GET /video HTTP/1.1" 200 -
+Error on request:
+Traceback (most recent call last):
+  File "/home/rob/Documents/projects/home1/venv/lib/python3.12/site-packages/werkzeug/serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "/home/rob/Documents/projects/home1/venv/lib/python3.12/site-packages/werkzeug/serving.py", line 334, in execute
+    write(data)
+  File "/home/rob/Documents/projects/home1/venv/lib/python3.12/site-packages/werkzeug/serving.py", line 309, in write
+    self.wfile.write(data)
+  File "/usr/lib/python3.12/socketserver.py", line 840, in write
+    self._sock.sendall(b)
+OSError: [Errno 113] No route to host
+192.168.1.160 - - [13/Jun/2025 22:19:19] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 22:23:34] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 22:23:34] "GET /video HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 22:29:36] "GET / HTTP/1.1" 200 -
+192.168.1.160 - - [13/Jun/2025 22:29:36] "GET /video HTTP/1.1" 200 -
+192.168.1.240 - - [13/Jun/2025 22:36:08] "GET / HTTP/1.1" 200 -
+192.168.1.240 - - [13/Jun/2025 22:36:10] "GET /video HTTP/1.1" 200 -
